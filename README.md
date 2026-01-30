@@ -9,6 +9,7 @@
 
 - Download the script from github releases
 - Extract it to somewhere
+- Install lsof package ("sudo pacman -S lsof" on arch based distros)
 - Run "chmod +x portinfo.sh"
 - Optionally install it with "./portinfo.sh --install"
 - Done! Now see "./portinfo.sh --help"
